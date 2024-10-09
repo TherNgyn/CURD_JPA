@@ -4,7 +4,7 @@
 
 <form action="${pageContext.request.contextPath }/admin/category/update" method = "post" enctype="multipart/form-data" >
  
-  <input type="text" id="categoryid" name="categoryid" value="${cate.categoryid }" hidden="hidden"><br>
+  <input type="text" id="categoryid" name="categoryid" value="${cate.categoryId }" hidden="hidden"><br>
   
   <label for="fname">Category Name</label><br>
   <input type="text" id="categoryname" name="categoryname" value="${cate.categoryname }"><br>

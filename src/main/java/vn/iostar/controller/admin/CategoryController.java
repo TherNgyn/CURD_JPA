@@ -120,7 +120,7 @@ public class CategoryController extends HttpServlet {
 
 			try {
 
-				Part part = req.getPart("images1");
+				Part part = req.getPart("images");
 
 				if (part.getSize() > 0) {
 
@@ -196,7 +196,7 @@ public class CategoryController extends HttpServlet {
 
 			try {
 
-				Part part = req.getPart("images1");
+				Part part = req.getPart("images");
 
 				if (part.getSize() > 0) {
 

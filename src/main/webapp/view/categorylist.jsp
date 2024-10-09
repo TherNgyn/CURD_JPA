@@ -12,7 +12,8 @@
 			<div class="table-wrapper-responsive">
 				<table>
 					<tr>
-						<th class="goods-page-image">Image</th>
+						<th class="goods-page-image">STT</th>
+						<th class="goods-page-description">Image</th>
 						<th class="goods-page-description">Category ID</th>
 						<th class="goods-page-ref-no">Category Name</th>
 						<th class="goods-page-description">Status</th>
